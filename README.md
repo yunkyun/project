@@ -2,4 +2,4 @@ readme
 
 
 
-project2=>캡스톤 디자인(남양주시 인구수에 따른 애견시설조사)=>추후 ipynb코드 업로드 다시 할 예정
+![캡스톤디자인1_최종발표.pdf](https://github.com/yunkyung0725/project/files/14371169/1_.pdf)
